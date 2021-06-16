@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowtham
-- 👀 I’m interested in ... Web Designing, 
-- 🌱 I’m currently learning ... React JS , Node JS
+- 👀 I’m interested in ... Software Developing, Game developement
+- 🌱 I’m currently learning ... React JS , Node JS, Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gowtham24ksa@gmail.com
 
